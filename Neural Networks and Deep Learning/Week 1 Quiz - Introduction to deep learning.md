@@ -12,7 +12,7 @@
 2. Which of these are reasons for Deep Learning recently taking off? (Check the two options that apply.)
 
     - [x] We have access to a lot more computational power.
-    - [ ] Neural Networks are a brand new field.
+    - [x] Neural Networks are a brand new field.
     - [x] We have access to a lot more data.
     - [ ] Deep learning has resulted in significant improvements in important applications such as online advertising, speech recognition, and image recognition.
     
